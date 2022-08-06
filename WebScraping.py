@@ -1,3 +1,6 @@
+## could not import the venv, the files are too big for github.
+
+
 import enum
 from bs4 import BeautifulSoup
 from selenium import webdriver
